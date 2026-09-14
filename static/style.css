@@ -1,0 +1,30 @@
+[data-testid="stMetric"] {
+    background: rgba(255, 255, 255, 0.03);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    border-radius: 10px;
+    padding: 14px 16px;
+    transition: border-color 0.15s ease;
+}
+[data-testid="stMetric"]:hover {
+    border-color: rgba(255, 255, 255, 0.18);
+}
+[data-testid="stMetricLabel"] {
+    text-align: left;
+    font-size: 0.70rem;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    opacity: 0.65;
+}
+[data-testid="stMetricLabel"] > div {
+    font-weight: 500;
+}
+[data-testid="stMetricValue"] {
+    font-size: 1.6rem;
+    font-weight: 600;
+    line-height: 1.2;
+    margin-top: 8px;
+}
+[data-testid="stHorizontalBlock"] [data-testid="column"] {
+    padding-left: 4px;
+    padding-right: 4px;
+}
