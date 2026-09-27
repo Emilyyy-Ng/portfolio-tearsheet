@@ -1,5 +1,7 @@
 # Portfolio Tearsheet
 
+🔗 **[Live Demo](https://portfolio-tearsheet.streamlit.app)**
+
 Upload a CSV of daily returns → get a full performance & risk tearsheet:
 Sharpe / Sortino / Calmar, drawdown analysis, CAPM + Fama-French regressions,
 rolling factor exposures, and a monthly returns heatmap.
