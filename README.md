@@ -56,7 +56,7 @@ Python · Streamlit · pandas · statsmodels · Plotly · yfinance · pandas-dat
 - [ ] Vectorise rolling OLS (currently loops per window)
 - [ ] Multi-portfolio comparison
 - [ ] Portfolio optimisation (mean-variance, risk parity)
-- [ ] Deploy to Streamlit Community Cloud
+- [x] Deploy to Streamlit Community Cloud
 
 ## License
 
